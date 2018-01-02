@@ -46,5 +46,4 @@ proc checkSum(r: seq[int]): auto =
 
   return checksum
 
-
 echo checkSum(input)
